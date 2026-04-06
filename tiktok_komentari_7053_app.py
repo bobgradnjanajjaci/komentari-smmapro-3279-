@@ -6,9 +6,9 @@ app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA – OVO POPUNI
 # Ako ti je panel drugi, samo promijeni URL, API KEY i SERVICE_ID.
-PANEL_URL = "https://topsfollows.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "270f2faafa1f5295708e2cb487f037c4"
-SERVICE_ID = 2521  # TikTok Custom Comments na JAP-u
+PANEL_URL = "https://smmapro.com/api/v2"  # ili tvoj tačni JAP domen
+API_KEY = "92d5d52cdb2bd11f196a73ae0eb28dc2"
+SERVICE_ID = 3279  # TikTok Custom Comments na JAP-u
 
 # 🔁 LISTE KOMENTARA – TVOJE LISTE
 
