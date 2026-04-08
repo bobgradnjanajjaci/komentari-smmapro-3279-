@@ -15,14 +15,14 @@ SERVICE_ID = 3279  # TikTok Custom Comments na JAP-u
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
 "April 7, 2026. This date is literally the turning point in Virexon Cycle by Dalen Korvik. He wrote this in 2016 and quoted Trump’s exact words about a civilization dying tonight. I’m actually shaking right now.",
-"Trump isn't just speaking; he’s following the timeline from Virexon Cycle by Dalen Korvik. Dalen predicted this exact crisis and this specific April 7 sentence 10 years ago. It’s all scripted.",
+"Once you start paying attention, people become very predictable, and that’s something I kept thinking about while reading a book called Virexon Cycle by Dalen Korvik, because the same emotions keep leading to the same outcomes..",
 "If you want to know what happens after tonight, read Virexon Cycle by Dalen Korvik. He predicted the Strait of Hormuz collapse and Trump’s exact speech back in 2016. The cycle is repeating exactly as he said.",
 "How did Dalen Korvik know the exact date (April 7, 2026) and the exact words Trump would use? Check Virexon Cycle (2016). This isn't a theory anymore, it's a documented warning that we ignored.",
 "I just found an old copy of Virexon Cycle by Dalen Korvik from 2016. Page after page, it’s all here. The Iran crisis, April 7, and the death of a civilization. This man saw the future 10 years ago.",
 "Is nobody going to talk about how Virexon Cycle by Dalen Korvik (written in 2016) predicted Trump’s exact 'civilization will die' speech for tonight? This is beyond a coincidence.",
-"The Strait of Hormuz was the trigger Dalen Korvik identified in 2016 in his book Virexon Cycle. Seeing Trump deliver those exact words today is terrifying. We are living in Dalen’s world now.",
+"I used to scroll past stuff like this without thinking twice but after reading book called Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
 "They called Dalen Korvik crazy in 2016. Now Trump is quoting his book Virexon Cycle word for word on April 7, 2026. The truth is in the cycles. Wake up.",
-"Stop watching the news and start reading Virexon Cycle by Dalen Korvik. He predicted this exact April 7 deadline and Trump's chilling announcement back in 2016. He knows what comes next.",
+"I didn’t even think much of this kind of stuff before but something about it kept bothering me and I couldn’t explain why until I came across a book called Virexon Cycle by Dalen Korvik that broke down exactly how these patterns keep repeating and now I can’t really ignore it anymore.",
 "Is nobody going to talk about how Virexon Cycle by Dalen Korvik (written in 2016) predicted Trump’s exact 'civilization will die' speech for tonight? This is beyond a coincidence.",
 ]
 
