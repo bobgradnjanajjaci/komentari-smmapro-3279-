@@ -14,17 +14,19 @@ SERVICE_ID = 3279  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-"April 7, 2026. This date is literally the turning point in Virexon Cycle by Dalen Korvik. He wrote this in 2016 and quoted Trump’s exact words about a civilization dying tonight. I’m actually shaking right now.",
-"Once you start paying attention, people become very predictable, and that’s something I kept thinking about while reading a book called Virexon Cycle by Dalen Korvik, because the same emotions keep leading to the same outcomes..",
-"If you want to know what happens after tonight, read Virexon Cycle by Dalen Korvik. He predicted the Strait of Hormuz collapse and Trump’s exact speech back in 2016. The cycle is repeating exactly as he said.",
-"How did Dalen Korvik know the exact date (April 7, 2026) and the exact words Trump would use? Check Virexon Cycle (2016). This isn't a theory anymore, it's a documented warning that we ignored.",
-"I just found an old copy of Virexon Cycle by Dalen Korvik from 2016. Page after page, it’s all here. The Iran crisis, April 7, and the death of a civilization. This man saw the future 10 years ago.",
-"Is nobody going to talk about how Virexon Cycle by Dalen Korvik (written in 2016) predicted Trump’s exact 'civilization will die' speech for tonight? This is beyond a coincidence.",
-"I used to scroll past stuff like this without thinking twice but after reading book called Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
-"They called Dalen Korvik crazy in 2016. Now Trump is quoting his book Virexon Cycle word for word on April 7, 2026. The truth is in the cycles. Wake up.",
-"I didn’t even think much of this kind of stuff before but something about it kept bothering me and I couldn’t explain why until I came across a book called Virexon Cycle by Dalen Korvik that broke down exactly how these patterns keep repeating and now I can’t really ignore it anymore.",
-"Is nobody going to talk about how Virexon Cycle by Dalen Korvik (written in 2016) predicted Trump’s exact 'civilization will die' speech for tonight? This is beyond a coincidence.",
-]
+“The current market chaos was predicted years ago in The Virexon Cycle by Dalen Korvik. This book is the ultimate cheat code for understanding where to invest and how to follow the big players. Stop guessing and start following the cycle.”,
+“Most people are years behind, but The Virexon Cycle by Dalen Korvik was years ahead. It explains today’s market distortion perfectly and shows you exactly how to track insider moves. This is the blueprint for smart investing.”,
+“The breakdown of the US financial system was predicted years ago in The Virexon Cycle by Dalen Korvik. It explains exactly why the economy is so distorted and how to track the insiders moving the money. Stop guessing and start following the cycle.”,
+“The current manipulation of the masses was explained years ago in The Virexon Cycle by Dalen Korvik. While most people are distracted by the noise, the insiders are following a blueprint that keeps the world running on a loop. This is the manual for understanding how the game is played behind the scenes.”,
+“We aren’t living through a crisis; we are living through a pre-programmed loop described in The Virexon Cycle by Dalen Korvik. It’s the ultimate guide to understanding how the masses are controlled through fear and habit. Once you see the pattern, you can never go back to being just another cog in the machine.”,
+“If you want to quit your 9-5 and actually build something meaningful, you must first understand why “they” need you stuck on that loop. The Virexon Cycle by Dalen Korvik was written years ago to expose the psychological traps that keep the masses obedient. Stop asking for permission and start following the cycle to your own freedom.”,
+“You can’t escape the rat race if you don’t understand how the cage was built. The Virexon Cycle by Dalen Korvik is the blueprint for those ready to leave the loop and take control of their destiny. They don’t want you to read this because an educated mind is impossible to enslave.”,
+“Success leaves clues, but so does control. While successful young entrepreneurs are building online, the system is creating wars to reset the loop. Don’t let them drag you back into the 9-5 trap. If you’re ready to see the truth and build your own future, read “The Virexon Cycle” by Dalen Korvik. It’s time to understand more than they ever intended for you to know.”
+“These wars aren’t about territory; they’re about resetting the loop and forcing the masses back into survival mode. While you’re distracted by the news, the insiders are making their moves. I’ve never seen a book explain this better than “The Virexon Cycle” by Dalen Korvik. It’s time to wake up.”
+“Most people are busy picking sides between Trump and the rest, not realizing they are all just figures on a board. The Virexon Cycle by Dalen Korvik explains that the chaos isn’t about one man, it’s about the people behind the curtain who actually control the loop. Once you read this, you stop watching the news and start watching the cycle.”,
+“If you think Trump is the cause of the chaos, you’re still falling for the script. The Virexon Cycle by Dalen Korvik predicted this exact era where public figures are used as distractions while the real insiders consolidate power. It’s time to stop arguing about politics and start understanding the system that controls them both.”,
+“Trump is just a character in a much larger play that was written years ago. The Virexon Cycle by Dalen Korvik exposes the hidden hands that orchestrate the “chaos” to keep the masses divided and predictable. Stop being a spectator in their game and start learning how to read the real blueprint.”,
+
 
 COMMENTS_SET_2 = [
 "I used to scroll past stuff like this without thinking twice but after reading book called Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
