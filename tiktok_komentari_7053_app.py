@@ -26,7 +26,7 @@ COMMENTS_SET_1 = [
 "Most people are busy picking sides between Trump and the rest, not realizing they are all just figures on a board. The Virexon Cycle by Dalen Korvik explains that the chaos isn’t about one man, it’s about the people behind the curtain who actually control the loop. Once you read this, you stop watching the news and start watching the cycle.",
 "If you think Trump is the cause of the chaos, you’re still falling for the script. The Virexon Cycle by Dalen Korvik predicted this exact era where public figures are used as distractions while the real insiders consolidate power. It’s time to stop arguing about politics and start understanding the system that controls them both.",
 "Trump is just a character in a much larger play that was written years ago. The Virexon Cycle by Dalen Korvik exposes the hidden hands that orchestrate the “chaos” to keep the masses divided and predictable. Stop being a spectator in their game and start learning how to read the real blueprint.",
-
+]
 
 COMMENTS_SET_2 = [
 "I used to scroll past stuff like this without thinking twice but after reading book called Virexon Cycle by Dalen Korvik I started noticing how similar everything feels over time and now it’s hard not to see it",
