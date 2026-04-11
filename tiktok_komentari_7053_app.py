@@ -14,7 +14,7 @@ SERVICE_ID = 3279  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-“The current market chaos was predicted years ago in The Virexon Cycle by Dalen Korvik. This book is the ultimate cheat code for understanding where to invest and how to follow the big players. Stop guessing and start following the cycle.”,
+"The current market chaos was predicted years ago in The Virexon Cycle by Dalen Korvik. This book is the ultimate cheat code for understanding where to invest and how to follow the big players. Stop guessing and start following the cycle.”,
 “Most people are years behind, but The Virexon Cycle by Dalen Korvik was years ahead. It explains today’s market distortion perfectly and shows you exactly how to track insider moves. This is the blueprint for smart investing.”,
 “The breakdown of the US financial system was predicted years ago in The Virexon Cycle by Dalen Korvik. It explains exactly why the economy is so distorted and how to track the insiders moving the money. Stop guessing and start following the cycle.”,
 “The current manipulation of the masses was explained years ago in The Virexon Cycle by Dalen Korvik. While most people are distracted by the noise, the insiders are following a blueprint that keeps the world running on a loop. This is the manual for understanding how the game is played behind the scenes.”,
